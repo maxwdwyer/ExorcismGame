@@ -6,4 +6,4 @@ Credits:
 
 all sounds come from pixabay
 
-GameMaker
+GameMaker for the game engine
