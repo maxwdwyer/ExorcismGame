@@ -2,5 +2,7 @@ Hello, the game files are zipped because there is too many sprites and sprite la
 I have put the scripts and objects folders in here because they fit, so if you just wanna look at the code and none of the rooms, sounds, sprites and stuff, you can do that.
 
 Credits:
+
 all sounds come from pixabay
+
 GameMaker
