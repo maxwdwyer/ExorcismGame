@@ -1,0 +1,1 @@
+draw_sprite_stretched(spr_candle, 0, x, y, 24, 24)

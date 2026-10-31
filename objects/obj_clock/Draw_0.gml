@@ -1,0 +1,1 @@
+draw_sprite_stretched(spr_clock, 0, x, y, 30, 30)

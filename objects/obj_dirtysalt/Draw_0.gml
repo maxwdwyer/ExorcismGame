@@ -1,0 +1,1 @@
+draw_sprite_stretched(spr_dirtysalt, 0, x, y, 16, 16)

@@ -1,0 +1,1 @@
+draw_sprite_stretched(spr_basementkey, 0, x, y, 12, 12)

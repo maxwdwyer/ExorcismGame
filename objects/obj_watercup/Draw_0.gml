@@ -1,0 +1,1 @@
+draw_sprite_stretched(spr_watercup, 0, x, y, 20, 20)

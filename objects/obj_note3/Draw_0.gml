@@ -1,0 +1,1 @@
+draw_sprite_stretched(spr_note3, 0, x, y, 28, 28)

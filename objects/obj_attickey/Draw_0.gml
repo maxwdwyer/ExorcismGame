@@ -1,0 +1,1 @@
+draw_sprite_stretched(spr_attickey, 0, x, y, 12, 12)

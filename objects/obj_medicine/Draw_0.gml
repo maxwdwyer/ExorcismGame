@@ -1,0 +1,1 @@
+draw_sprite_stretched(spr_medicine, 0, x, y, 18, 18)

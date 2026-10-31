@@ -1,0 +1,1 @@
+draw_sprite_stretched(spr_knife, 0, x, y, 32, 32)
