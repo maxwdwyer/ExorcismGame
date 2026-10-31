@@ -1,0 +1,2 @@
+taken = false
+ptaken = false

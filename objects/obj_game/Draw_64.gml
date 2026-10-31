@@ -1,0 +1,5 @@
+draw_set_color(c_black)
+if global.ready = false then draw_rectangle(0, 0, room_width, room_height, false)
+draw_set_color(c_white)
+//draw_text(x, y, [hour, minute])
+//draw_text(x, y + 20, fps_real)

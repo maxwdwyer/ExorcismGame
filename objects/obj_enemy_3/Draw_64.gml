@@ -1,0 +1,5 @@
+draw_set_halign(true)
+draw_set_valign(true)
+draw_text_transformed(room_width / 4, 50, "Hide.", 3.5, 3.5, 3.25 * sin(current_time / (300 * random_range(.96, 1.04))))
+draw_set_halign(false)
+draw_set_valign(false)

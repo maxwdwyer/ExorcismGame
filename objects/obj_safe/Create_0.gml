@@ -1,0 +1,9 @@
+code = "537"
+open = false
+num = 3
+item = 3
+crosstaken = false
+interact = false
+typed = ""
+cd = [0, 5]
+t = 6

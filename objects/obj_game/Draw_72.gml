@@ -1,0 +1,1 @@
+draw_set_color(make_color_rgb(75, 75, 75))

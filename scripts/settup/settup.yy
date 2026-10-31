@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"settup",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"settup",
+  "parent":{
+    "name":"control",
+    "path":"folders/objects/control.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

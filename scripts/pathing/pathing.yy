@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"pathing",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"pathing",
+  "parent":{
+    "name":"control",
+    "path":"folders/objects/control.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

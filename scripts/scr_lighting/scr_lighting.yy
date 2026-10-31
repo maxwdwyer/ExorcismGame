@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_lighting",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_lighting",
+  "parent":{
+    "name":"group1",
+    "path":"folders/objects/control/group1.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
