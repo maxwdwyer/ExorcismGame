@@ -6,4 +6,6 @@ Credits:
 
 all sounds come from pixabay
 
+Farrel McGuire's video on YouTube: "Horrors on the Russian Internet" which was the inspiration for this.
+
 GameMaker for the game engine
